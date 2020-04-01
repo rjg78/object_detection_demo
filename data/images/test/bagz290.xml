@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bags</folder>
+	<filename>bagz290.jpg</filename>
+	<path>C:\Users\Rod\Pictures\Trash\Resized_800_600\Bags Resized\Bags\bagz290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>340</ymin>
+			<xmax>341</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>229</ymin>
+			<xmax>334</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

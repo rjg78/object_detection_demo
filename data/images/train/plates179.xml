@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Plates Resized</folder>
+	<filename>plates179.jpg</filename>
+	<path>C:\Users\Rod\Pictures\Trash\Resized_800_600\Plates Resized\plates179.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>576</ymin>
+			<xmax>593</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>396</ymin>
+			<xmax>271</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>292</ymin>
+			<xmax>388</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

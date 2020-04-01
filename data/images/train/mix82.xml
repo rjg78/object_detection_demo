@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Resized New Mix</folder>
+	<filename>mix82.jpg</filename>
+	<path>C:\Users\Rod\Pictures\Trash\Resized_800_600\Resized New Mix\mix82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>350</ymin>
+			<xmax>517</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>462</ymin>
+			<xmax>330</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>732</ymin>
+			<xmax>600</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+</annotation>

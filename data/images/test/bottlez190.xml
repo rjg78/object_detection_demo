@@ -1,0 +1,38 @@
+<annotation>
+	<folder>NewOldBottles</folder>
+	<filename>bottlez190.jpg</filename>
+	<path>C:\Users\Rod\Pictures\Trash\Resized_800_600\Bottles Resized\NewOldBottles\bottlez190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>270</ymin>
+			<xmax>335</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>198</ymin>
+			<xmax>458</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
